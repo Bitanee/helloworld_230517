@@ -16,7 +16,7 @@ helloworld_230517
 
 * Number 1.
 * Number 2.
-* NUmber 3.
+* Number 3.
 
 ```bash
 echo "Hello World!" > main.c
