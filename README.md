@@ -18,7 +18,9 @@ helloworld_230517
 * Number 2.
 * NUmber 3.
 
-``printf("Hello World!");``
+```bash
+echo "Hello World!" > main.c
+```
 
 ```c
 #include <stdio.h>
