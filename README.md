@@ -18,7 +18,7 @@ helloworld_230517
 * Number 2.
 * NUmber 3.
 
-```
+```c
 #include <stdio.h>
 
 int main(void) {
