@@ -24,6 +24,8 @@ helloworld_230517
 
 > yes
 >> yes
+
+`printf("yes");`
 ```bash
 echo "Hello World!" > main.c
 ```
