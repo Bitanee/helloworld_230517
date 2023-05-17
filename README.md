@@ -18,6 +18,9 @@ helloworld_230517
 * Number 2.
 * Number 3.
 
+1 Bullet 1
+2 Bullet 2
+3 Bullet 3
 
 ```bash
 echo "Hello World!" > main.c
