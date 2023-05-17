@@ -22,6 +22,7 @@ helloworld_230517
 2Bullet 2
 3Bullet 3
 
+> yes
 ```bash
 echo "Hello World!" > main.c
 ```
